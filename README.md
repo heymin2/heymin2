@@ -1,7 +1,20 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=heymin2&fontSize=90" /><div/>
+<div align="center">
+  
+### ✨ About Me ✨
+---
 
-<div align="center"><h2>:heart:Tech Stack:heart:<h2/>
-  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/><div/>
+### :heart:Tech Stack:heart:
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
 
-<div align="center"><h2>:blue_heart:Studying:blue_heart:<h2/>
-<img alt="Python" src ="https://img.shields.io/badge/Python-00599C.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Flask" src ="https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white"/><div/>
+### :blue_heart:Studying:blue_heart:
+  <img src="https://img.shields.io/badge/Python-00599C?style=flat&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
+  
+ <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymin2&layout=compact"> 
+
+  
+
+
