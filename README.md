@@ -16,6 +16,7 @@
   
  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymin2&layout=compact"> 
 
-  
 
+### 📫Contacts📫
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:alddlv81@gmail.com)
 
