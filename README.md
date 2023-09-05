@@ -13,7 +13,8 @@
 
 ### :blue_heart:Studying:blue_heart:
  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
-  
+ <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+ 
  <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymin2&layout=compact"> 
 
 
