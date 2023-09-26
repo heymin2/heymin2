@@ -20,4 +20,4 @@
 
 ### 📫Contacts📫
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:alddlv81@gmail.com)
-
+ <a href="https://velog.io/@heymin2"><img src="https://img.shields.io/badge/%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyemin2"/></a>
