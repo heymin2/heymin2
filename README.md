@@ -1,24 +1,60 @@
-<div align="center">
-  
-### ✨ About Me ✨
----
+# WhereIsMyHome_Frontend_구미_5반_박형준_신혜민
+> 1학기 Frontend PJT: Frontend 프로젝트 - 주제: 부동산 🏠
 
-### ❤Tech❤
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-00599C?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
 
-### 💙Studying💙
 
- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=13131325)](https://solved.ac/13131325)
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+## 기본
+### 1. 메인페이지 및 메뉴 구성
+사진사진사진
+- [x] 메뉴 구성 
+- 메인
+-  아파트
+-  연립다세대
+-  회원정보 확인
+-  로그인
 
- <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymin2&layout=compact">
+- [x] 아파트 실거래가 조회 - 메인페이지에서도 아파트 실거래가를 조회할 수 있음
 
-### 📫Contacts📫
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:alddlv81@gmail.com)
- <a href="https://velog.io/@heymin2"><img src="https://img.shields.io/badge/%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyemin2"/></a>
+사진사진사진
+
+- [x] 연립다세대 실거래가 조회 - 메인페이지에서도 연립다세대 실거래가를 조회할 수 있음
+
+사진사진사진
+
+### 2. 회원관리 페이지
+- [x] 회원정보 등록 - 회원가입
+
+사진사진사진
+    
+- [x] 회원정보 수정
+
+사진사진사진
+    
+- [x] 회원정보 삭제 - alert가 뜸
+
+사진사진사진
+    
+- [x] 회원정보 조회 - 조회 가능
+
+### 3. 로그인 페이지
+- [x] 로그인
+- [x] 회원가입 페이지로 이동
+
+### 4. 실거래가 조회, 결과 페이지
+- [x] 아파트
+  - 시 선택 -> 구 선택 -> 동 선택 / 년도, 월 선택 후 조회하기 버튼 클릭시 해당 아파트 목록을 보여줌
+  - 사진사진사진
+  - 아파트 클릭시 지도에 위치 찍힘
+  - 사진사진사진
+- [x] 연립다세대
+  - 시 선택 -> 구 선택 -> 동 선택 / 년도, 월 선택 후 조회하기 버튼 클릭시 해당 아파트 목록을 보여줌
+  - 사진사진사진
+  - 연립다세대 클릭시 지도에 위치 찍힘
+  - 사진사진사진
+     
+    
+## 심화
+### 5. 웹사이트 소개
+- 사진사진사진
+- 웹페이지 전체적인 기능을 확인할 수 있음
+- 메뉴바, 로그인, 아파트 실거래가 조회, 연립다세대 실거래가 조회, 위로가기의 기능을 확인할 수 있음
