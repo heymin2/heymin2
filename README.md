@@ -1,24 +1,47 @@
-<div align="center">
+## 💭 heymin2
+
+
+### Skills
+- **Languages**: Java, JavaScript, Python, C#
+- **Back-End**: Spring Boot, Flask
+- **Front-End**: React, React Native, WinForms
+- **Databases**: MySQL
+- **Caching**: Redis
+- **Tools**: AWS (EC2, S3), Docker, Jenkins, Jira, Figma
+
+#
+
+### Education
+삼성 청년 SW 아카데미 11기 자바 트랙 (2024.01 - 2024.12)
   
-### ✨ About Me ✨
----
+#
 
-### ❤Tech❤
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-00599C?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white" />
+### Projects
 
-### 💙Studying💙
+<details>
+   <summary><strong>BE 프로젝트</strong></summary>
+  
+| 프로젝트명 | 설명 | 기간 | 인원 | 역할 |
+|-----------|--------------------------------------------------------|-------------------------------|----|---|
+| [pawly: AR기반 롤링페이퍼 서비스](https://github.com/six-star-104/pawly) | AR을 활용한 3D 롤링페이퍼 및 메시지 보관 서비스 | 2024.10.14 ~ 2024.11.19 | 6명 | BE |
+| [맘대로: 당신의 마음이 가는대로](https://github.com/mam-daero/mamdaero) | WebRTC 기반 실시간 비대면 상담 플랫폼 | 2024.07.02 ~ 2024.08.16 | 7명 | BE |
+| [개집: 개인간 집거래](https://github.com/heymin2/WhereIsMyHome) | 아파트 실거래가 조회 및 매물 공유 플랫폼 | 2024.05.13 ~ 2024.05.24 | 2명 | BE |
+</details>
 
- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=13131325)](https://solved.ac/13131325)
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=white" />
 
- <br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heymin2&layout=compact">
+<details>
+   <summary><strong>그 외 프로젝트</strong></summary>
+  
+| 프로젝트명 | 설명 | 기간 | 인원 | 역할 |
+|-----------|--------------------------------------------------------|-------------------------------|----|---|
+| [맘대로: 당신의 마음이 가는대로](https://github.com/mam-daero/mamdaero) | WebRTC 기반 실시간 비대면 상담 플랫폼 | 2024.07.02 ~ 2024.08.16 | 7명 | BE |
+| [피노키오](https://github.com/Voice-Phishing-Detection-App/Client2) | 통화 내용을 분석하여 보이스피싱을 탐지하고 사용자에게 알림을 제공하는 앱 | 2023.05 ~ 2023.11 | 5명 | FE |
+| [yolov5를 이용한 얼굴 인식](https://github.com/heymin2/yolov5s_faceInfo) | 얼굴 인식을 통해 사무실 출입 통계를 산출하는 서비스 | 2023.01 ~ 2023.02 | 1명 | BE, FE, AI |
+</details>
 
-### 📫Contacts📫
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:alddlv81@gmail.com)
- <a href="https://velog.io/@heymin2"><img src="https://img.shields.io/badge/%20Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyemin2"/></a>
+
+#
+
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=13131325)](https://solved.ac/13131325/)
+
