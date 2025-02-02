@@ -5,8 +5,7 @@
 - **Languages**: Java, JavaScript, Python, C#
 - **Back-End**: Spring Boot, Flask
 - **Front-End**: React, React Native, WinForms
-- **Databases**: MySQL
-- **Caching**: Redis
+- **Databases**: MySQL, Redis
 - **Tools**: AWS (EC2, S3), Docker, Jenkins, Jira, Figma
 
 #
