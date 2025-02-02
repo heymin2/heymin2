@@ -6,7 +6,7 @@
 - **Back-End**: Spring Boot, Flask
 - **Front-End**: React, React Native, WinForms
 - **Database**: MySQL, Redis
-- **Tools**: AWS (EC2, S3), Docker, Jenkins, Jira, Figma
+- **Tool**: AWS (EC2, S3), Docker, Jenkins, Jira, Figma
 
 #
 
