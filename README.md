@@ -2,10 +2,10 @@
 
 
 ### Skills
-- **Languages**: Java, JavaScript, Python, C#
+- **Language**: Java, JavaScript, Python, C#
 - **Back-End**: Spring Boot, Flask
 - **Front-End**: React, React Native, WinForms
-- **Databases**: MySQL, Redis
+- **Database**: MySQL, Redis
 - **Tools**: AWS (EC2, S3), Docker, Jenkins, Jira, Figma
 
 #
